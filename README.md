@@ -1,3 +1,3 @@
-#SIMPLE HANGMAN GAME C 
-
+# SIMPLE HANGMAN GAME C 
 Basic hangman game in C
+ 
